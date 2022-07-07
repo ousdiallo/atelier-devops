@@ -1,1 +1,1 @@
-# javahometech-my-app
+# DevOps tutorial from javahometech
